@@ -1,3 +1,4 @@
+<img width="2048" height="915" alt="Music Divider" src="https://github.com/user-attachments/assets/a4e45a08-441f-497d-8494-97d8c143e6df" />
 <div align="center">
 𝄞 𝓘𝓫𝓾𝓴𝓲 / 𝓗𝓪𝓳𝓲 𝄞
 </div>
