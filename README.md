@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+𝄞 𝓘𝓫𝓾𝓴𝓲 / 𝓗𝓪𝓳𝓲 𝄞
+</div>
+ᅠᅠᅠᅠᅠᅠᅠ
 
-<!--
-**Meddeer/Meddeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ᴛʜɪs   ɪs   ᴀ
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+sᴘᴀᴍ   ғᴏʟʟᴏᴡ   ᴀᴄᴄᴏᴜɴᴛ !! ʙʟᴏᴄᴋ   ɪғ   ᴜɴᴡᴀɴᴛᴇᴅ
+</div>
+ᅠᅠᅠᅠᅠᅠᅠ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+<div align="center">
+<img src="https://static.wikia.nocookie.net/danganronpa/images/3/3d/Danganronpa_2_Island_Mode_Ibuki_Mioda_Pixel_Icon_%283%29.gif/revision/latest?cb=20170828151426">
+</div>
+ᅠᅠᅠᅠᅠᅠᅠ
+<img width="1200" height="675" alt="Ibuki Mioda Banner Github" src="https://github.com/user-attachments/assets/db554907-194a-4128-b2cd-df5e61948444" />
